@@ -1,0 +1,1 @@
+A different version of the same arm parts, to fit 2 sizes of servos. It is recommended to open the original fusion file (.f3d) and adjusting the dimensions to fit the particular servos you will be using for your own version of this project.
